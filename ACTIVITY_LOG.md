@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2024-01-12
-- Commit: 37/82
-- Subsystem: docs(guides): update local development and staging setup guides
+- Commit: 38/82
+- Subsystem: feat(cache): implement LRU manifest cache for multi-round audit runs
