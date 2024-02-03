@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2024-02-03
-- Commit: 9/55
-- Subsystem: refactor(dom): optimize DOM element selector extraction pipeline
+- Commit: 10/55
+- Subsystem: feat(analytics): add streaming CSV audit export endpoints
