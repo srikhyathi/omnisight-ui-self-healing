@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2024-05-16
-- Commit: 29/80
-- Subsystem: refactor(gateway): decouple ASGI middleware from authentication context
+- Commit: 30/80
+- Subsystem: feat(optimizer): add minimum tile clamp safeguards to prevent VLM distortion
