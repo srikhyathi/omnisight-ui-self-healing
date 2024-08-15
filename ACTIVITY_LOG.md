@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2024-08-15
-- Commit: 19/78
-- Subsystem: docs(notes): summarize enterprise SDLC compliance requirements
+- Commit: 20/78
+- Subsystem: feat(telemetry): add Prometheus metrics exporter for token reduction
