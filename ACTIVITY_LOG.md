@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2025-02-13
-- Commit: 16/69
-- Subsystem: feat(scheduler): add cron-triggered scheduled visual anomaly scans
+- Commit: 17/69
+- Subsystem: fix(dom): normalize cross-browser whitespace differences in element text
