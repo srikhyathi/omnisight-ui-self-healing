@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2025-08-25
-- Commit: 3/73
-- Subsystem: docs(review): finalize technical deliverables documentation
+- Commit: 4/73
+- Subsystem: refactor(dom): optimize DOM element selector extraction pipeline
