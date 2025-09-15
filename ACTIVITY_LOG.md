@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2025-09-15
-- Commit: 11/62
-- Subsystem: test(optimizer): benchmark crop cache hit rates and sub-millisecond retrieval
+- Commit: 12/62
+- Subsystem: feat(telemetry): export token savings ratios and approval latency gauges
