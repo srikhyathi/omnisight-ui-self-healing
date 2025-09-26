@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2025-09-26
-- Commit: 20/81
-- Subsystem: perf(vision): reduce perceptual hash comparison latency by 40%
+- Commit: 21/81
+- Subsystem: test(security): add test suite for malicious style injection vectors
