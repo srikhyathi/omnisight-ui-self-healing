@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-01-25
-- Commit: 30/60
-- Subsystem: test(telemetry): verify CSV compliance report formatting and headers
+- Commit: 31/60
+- Subsystem: docs(milestones): document week 4 spatial optimization milestones
