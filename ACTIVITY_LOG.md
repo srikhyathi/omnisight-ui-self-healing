@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-02-06
-- Commit: 36/61
-- Subsystem: docs(specs): formalize JSON schema contract for retest evidence payloads
+- Commit: 37/61
+- Subsystem: test(optimizer): benchmark crop cache hit rates and sub-millisecond retrieval
