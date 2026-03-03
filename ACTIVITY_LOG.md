@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-03-03
-- Commit: 27/68
-- Subsystem: test(concurrency): load-test simultaneous visual audit executions
+- Commit: 28/68
+- Subsystem: feat(scheduler): add cron-triggered scheduled visual anomaly scans
