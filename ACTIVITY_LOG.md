@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-03-06
-- Commit: 20/61
-- Subsystem: feat(optimizer): add minimum tile clamp safeguards to prevent VLM distortion
+- Commit: 21/61
+- Subsystem: docs(specs): formalize JSON schema contract for retest evidence payloads
