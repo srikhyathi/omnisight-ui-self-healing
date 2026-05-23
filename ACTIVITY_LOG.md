@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-05-23
-- Commit: 46/68
-- Subsystem: feat(telemetry): export token savings ratios and approval latency gauges
+- Commit: 47/68
+- Subsystem: fix(parser): handle unescaped control characters in LLM markdown blocks
