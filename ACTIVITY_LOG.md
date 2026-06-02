@@ -1,4 +1,4 @@
 # OmniSight Activity Log
-- Date: 2026-06-01
-- Commit: 67/67
-- Subsystem: docs(milestones): document week 4 spatial optimization milestones
+- Date: 2026-06-02
+- Commit: 1/64
+- Subsystem: feat(review): implement bulk approval batch processing for enterprise QA
