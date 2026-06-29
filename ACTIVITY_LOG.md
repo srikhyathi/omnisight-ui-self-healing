@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-06-29
-- Commit: 39/70
-- Subsystem: fix(api): align run lifecycle state machine transitions
+- Commit: 40/70
+- Subsystem: test(approval): verify QA manager sign-off and rejection workflows
