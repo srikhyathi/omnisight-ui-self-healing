@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-07-08
-- Commit: 44/64
-- Subsystem: docs(contracts): update Pydantic v2 schemas for visual defect findings
+- Commit: 45/64
+- Subsystem: test(policy): add unit test coverage for zero-trust security boundary
