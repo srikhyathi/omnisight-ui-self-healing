@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-10-07
-- Commit: 8/63
-- Subsystem: perf(retest): parallelize Playwright screenshot comparisons across workers
+- Commit: 9/63
+- Subsystem: test(concurrency): load-test simultaneous visual audit executions
