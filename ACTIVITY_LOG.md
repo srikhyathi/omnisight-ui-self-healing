@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-10-15
-- Commit: 66/77
-- Subsystem: feat(economics): compute mathematical token reduction against uncropped baselines
+- Commit: 67/77
+- Subsystem: docs(security): publish threat model and vulnerability mitigation audit
